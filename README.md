@@ -10,7 +10,7 @@
 🤝 Open to collaboration on open-source projects, creative app ideas, and anything that sparks innovation.  
 📫 Reach me at **[tcodeappscust@gmail.com](mailto:tcodeappscust@gmail.com)**  
 😄 Pronouns: **He/Him**  
-⚡ Fun fact: I published my first **Android app** and **Samsung watch face** on the Play Store *before graduating*! 🚀  
+⚡ Fun fact: I published my first **Android app** on the Play Store *before Post graduation*! 🚀  
 
 ---
 
