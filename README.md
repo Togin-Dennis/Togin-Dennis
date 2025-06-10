@@ -5,32 +5,30 @@
 
 ## 💫 About Me
 
-👨‍💻 Passionate about building intuitive, cross-platform apps and modern web experiences using **Flutter**, **React**, and **Firebase**.  
-🌱 Currently diving deeper into **React** and **advanced JavaScript frameworks**.  
-🤝 Open to collaboration on open-source projects, creative app ideas, and anything that sparks innovation.  
-📫 Reach me at **[tcodeappscust@gmail.com](mailto:tcodeappscust@gmail.com)**</br>
-🛜 More about me **[PORTFOLIO](https://togin-dennis.github.io/I_AM_TOGIN/)**  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: I published my first **Android app** on the Play Store *before Post graduation*! 🚀  
-
----
+- 👨‍💻 Passionate about building intuitive, cross-platform apps and modern web experiences using **Flutter**, **React**, and **Firebase**  
+- 🌱 Currently diving deeper into **React** and **advanced JavaScript frameworks**  
+- 🤝 Open to collaborating on open-source projects, creative app ideas, and anything that sparks innovation  
+- 📫 Reach me at: **[tcodeappscust@gmail.com](mailto:tcodeappscust@gmail.com)**  
+- 🛜 Portfolio: [**I AM TOGIN**](https://togin-dennis.github.io/I_AM_TOGIN/)  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I published my first **Android app** on the Play Store *before post-graduation*! 🚀  
 
 ---
 
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Togin-Dennis.Togin-Dennis" />
-  <br/>
-  <strong>Total Visitors to This GitHub Profile</strong>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Togin-Dennis.Togin-Dennis&title=Visitors&color=blue&style=flat-square" alt="Visitor Count Badge"/>
 </p>
 
+<p align="center"><strong>Thank you for visiting my GitHub profile!</strong></p>
 
 
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/togin_dennis_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/togin-dennis-a8642a359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:togindennisoffi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -40,7 +38,7 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
@@ -85,7 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Togin-Dennis&icon=6&color=3" />
+  <sub>Created with ❤️ by <strong>Togin Dennis</strong></sub>
 </p>
-
-<!-- Created with ❤️ by Togin Dennis using GPRM (https://gprm.itsvg.in) -->
