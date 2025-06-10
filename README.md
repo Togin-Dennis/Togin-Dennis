@@ -20,9 +20,9 @@
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://api.countapi.xyz/hit/togin-profile/visits?style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Togin-Dennis.Togin-Dennis" />
   <br/>
-  <strong>Total Visits to This GitHub Profile</strong>
+  <strong>Total Visitors to This GitHub Profile</strong>
 </p>
 
 
