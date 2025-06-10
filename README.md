@@ -8,7 +8,8 @@
 👨‍💻 Passionate about building intuitive, cross-platform apps and modern web experiences using **Flutter**, **React**, and **Firebase**.  
 🌱 Currently diving deeper into **React** and **advanced JavaScript frameworks**.  
 🤝 Open to collaboration on open-source projects, creative app ideas, and anything that sparks innovation.  
-📫 Reach me at **[tcodeappscust@gmail.com](mailto:tcodeappscust@gmail.com)**  
+📫 Reach me at **[tcodeappscust@gmail.com](mailto:tcodeappscust@gmail.com)**
+🛜 More about me **[PORTFOLIO](https://togin-dennis.github.io/I_AM_TOGIN/)**  
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: I published my first **Android app** on the Play Store *before Post graduation*! 🚀  
 
