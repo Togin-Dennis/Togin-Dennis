@@ -9,7 +9,7 @@
 - 🌱 Currently diving deeper into **React** and **advanced JavaScript frameworks**  
 - 🤝 Open to collaborating on open-source projects, creative app ideas, and anything that sparks innovation  
 - 📫 Reach me at: **[tcodeappscust@gmail.com](mailto:tcodeappscust@gmail.com)**  
-- 🛜 Portfolio: [**I AM TOGIN**](https://togin-dennis.github.io/I_AM_TOGIN/)  
+- 🛜 Portfolio: [**I AM TOGIN**](https://togin-dennis.github.io/I-am_Togin/#/)  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I published my first **Android app** on the Play Store *before post-graduation*! 🚀  
 
