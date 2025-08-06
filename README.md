@@ -1,17 +1,19 @@
 <h1 align="center">Hi, I'm Togin Dennis 👋</h1>
-<h3 align="center">Aspiring Developer | Flutter & React Enthusiast | Firebase Fan</h3>
+<h3 align="center">MERN Stack Developer | Flutter Enthusiast | Firebase Fan | Cross-Platform Builder 🚀</h3>
 
 ---
 
 ## 💫 About Me
 
-- 👨‍💻 Passionate about building intuitive, cross-platform apps and modern web experiences using **Flutter**, **React**, and **Firebase**  
-- 🌱 Currently diving deeper into **React** and **advanced JavaScript frameworks**  
-- 🤝 Open to collaborating on open-source projects, creative app ideas, and anything that sparks innovation  
-- 📫 Reach me at: **[tcodeappscust@gmail.com](mailto:tcodeappscust@gmail.com)**  
-- 🛜 Portfolio: [**I AM TOGIN**](https://togin-dennis.github.io/I-am_Togin/#/)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I published my first **Android app** on the Play Store *before post-graduation*! 🚀  
+- 👨‍💻 I’m a passionate **full-stack developer** who loves crafting seamless, modern apps using **Flutter**, **React**, and **Firebase**
+- 💻 Experienced in building both **mobile apps** and **full-featured web applications** with the **MERN stack (MongoDB, Express, React, Node.js)**
+- 🌱 Currently exploring deeper concepts in **React**, **Next.js**, and **advanced backend systems**
+- 🧠 Love learning new technologies and turning ideas into working products
+- 🤝 Open to collaborating on innovative app ideas, startups, and open-source contributions
+- 📫 Reach me: [**tcodeappscust@gmail.com**](mailto:tcodeappscust@gmail.com)
+- 🌐 Portfolio: [**I AM TOGIN**](https://togin-dennis.github.io/I-am_Togin/#/)
+- ⚡ Fun Fact: I released my first **Play Store app** before completing my graduation! 🎉
+  
 
 ---
 
